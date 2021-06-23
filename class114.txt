@@ -1,0 +1,3 @@
+Regression : It takes a group of random variables thought to be predicting Y and tries to find a mathematical relationship between
+This relationship is typically in form of a straight line ( Linear regression) that best approximates all the individual data points 
+
